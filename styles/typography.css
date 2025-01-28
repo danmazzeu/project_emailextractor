@@ -1,0 +1,64 @@
+.ts-10 { font-size: 10px !important; }
+.ts-11 { font-size: 11px !important; }
+.ts-12 { font-size: 12px !important; }
+.ts-13 { font-size: 13px !important; }
+.ts-14 { font-size: 14px !important; }
+.ts-15 { font-size: 15px !important; }
+.ts-16 { font-size: 16px !important; }
+.ts-17 { font-size: 17px !important; }
+.ts-18 { font-size: 18px !important; }
+.ts-19 { font-size: 19px !important; }
+.ts-20 { font-size: 20px !important; }
+.ts-25 { font-size: 25px !important; }
+.ts-30 { font-size: 30px !important; }
+.ts-35 { font-size: 35px !important; }
+.ts-40 { font-size: 40px !important; }
+.ts-45 { font-size: 45px !important; }
+.ts-50 { font-size: 50px !important; }
+.ts-55 { font-size: 55px !important; }
+.ts-60 { font-size: 60px !important; }
+
+.tw-100 { font-weight: 100 !important; }
+.tw-200 { font-weight: 200 !important; }
+.tw-300 { font-weight: 300 !important; }
+.tw-400 { font-weight: 400 !important; }
+.tw-500 { font-weight: 500 !important; }
+.tw-600 { font-weight: 600 !important; }
+.tw-700 { font-weight: 700 !important; }
+.tw-800 { font-weight: 800 !important; }
+.tw-900 { font-weight: 900 !important; }
+
+.td-underline { text-decoration: underline !important; }
+.td-dashed { text-decoration: dashed !important; }
+.td-dotted { text-decoration: dotted !important; }
+.td-double { text-decoration: double !important; }
+.td-line { text-decoration: line-through !important; }
+.td-overline { text-decoration: overline !important; }
+.td-solid { text-decoration: solid !important; }
+.td-wavy { text-decoration: wavy !important; }
+
+.tt-capital { text-transform: capitalize !important;}
+.tt-lower { text-transform: lowercase !important;}
+.tt-upper { text-transform: uppercase !important;}
+.tt-upper { text-transform: uppercase !important;}
+.tt-italic { font-style: italic; }
+.tt-oblique { font-style: oblique; }
+
+.ta-center { text-align: center !important; }
+.ta-left { text-align: left !important; }
+.ta-right { text-align: right !important; }
+.ta-justify { text-align: justify !important; }
+
+.lh-20 { line-height: 20px !important; }
+.lh-25 { line-height: 25px !important; }
+.lh-30 { line-height: 30px !important; }
+.lh-35 { line-height: 35px !important; }
+.lh-40 { line-height: 40px !important; }
+.lh-45 { line-height: 45px !important; }
+.lh-50 { line-height: 50px !important; }
+
+.ls-1 { letter-spacing: 1px !important; }
+.ls-2 { letter-spacing: 2px !important; }
+.ls-3 { letter-spacing: 3px !important; }
+.ls-4 { letter-spacing: 4px !important; }
+.ls-5 { letter-spacing: 5px !important; }

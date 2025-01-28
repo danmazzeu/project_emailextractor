@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Extrator de E-mails",
+    "version": "1.0",
+    "description": "Extrai e-mails da página atual",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+    }]
+}

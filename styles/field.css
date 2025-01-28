@@ -1,0 +1,37 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+
+.field textarea {
+    width: 100%;
+    max-height: 300px;
+    min-height: 150px;
+    resize: vertical;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #444;
+    color: #fff;
+    background-color: transparent;
+}
+
+.field p {
+    display: none;
+    color: #b5914a;
+    font-weight: 400;
+}
+
+.field button,
+.field button:disabled {
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #b5914a;
+    border: 0;
+    border-radius: 5px;
+}
+
+.field button:disabled {
+    background-color: #555 !important;
+}
